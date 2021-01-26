@@ -10,7 +10,7 @@ For example, if you use `let g:neosnippet#snippets_directory='~/.vim/neosnippets
 
 ```shell-session
 $ cd ~/.vim/neosnippets
-$ git clone https://github.com/aiya000/neosnippet-kaomoji
+$ git clone https://github.com/aiya000/neosnippet-kaomoji  # or git submodule add if you're managing your vim environment
 ```
 
 - 2. Link it to a filetype you need

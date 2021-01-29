@@ -1,10 +1,10 @@
 # :gift: neosnippet-kaomoji :gift:
 
-A way to input kamojis via [neosnippet.vim](https://github.com/Shougo/neosnippet.vim).
+A way to input kamojis via [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) 💕(,,>᎑<,,)💕
 
 ## Installation
 
-For example, if you use `let g:neosnippet#snippets_directory='~/.vim/neosnippets'`.
+For example, if you use `let g:neosnippet#snippets_directory='~/.vim/neosnippets'` (✿╹◡╹)ﾉ
 
 - 1. Clone this repository
 
@@ -21,4 +21,4 @@ $ cd markdown
 $ ln -s ~/.vim/neosnippets/neosnippet-kaomoji/neosnippets/kaomoji.snip .
 ```
 
-- :+1:. Now you can use this!
+- :+1:. Now you can use this! ✨(((o(\*ﾟ▽ﾟ\*)o)))✨

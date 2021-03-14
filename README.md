@@ -2,6 +2,8 @@
 
 A way to input kamojis via [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) 💕(,,>᎑<,,)💕
 
+- (\*•̀ᴗ•́\*)و ̑̑ [Available kaomojis list](./neosnippets/kaomoji.snip)
+
 ## Installation
 
 For example, if you use `let g:neosnippet#snippets_directory='~/.vim/neosnippets'` (✿╹◡╹)ﾉ
@@ -22,3 +24,7 @@ $ ln -s ~/.vim/neosnippets/neosnippet-kaomoji/neosnippets/kaomoji.snip .
 ```
 
 - :+1:. Now you can use this! ✨(((o(\*ﾟ▽ﾟ\*)o)))✨
+
+- - -
+
+- [Available kaomojis list](./neosnippets/kaomoji.snip) ԅ(¯﹃¯ԅ))))
